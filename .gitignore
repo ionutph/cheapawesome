@@ -48,3 +48,10 @@ Thumbs.db
 *.mov
 *.wmv
 
+/CheapAwesome/.vs/CheapAwesome
+/CheapAwesome/bin/Debug/netcoreapp3.1
+/CheapAwesome/obj
+/CheapAwesome.Providers.BargainsForCouples/bin/Debug/netcoreapp3.1
+/CheapAwesome.Providers.BargainsForCouples/obj
+/CheapAwesome.Providers.Base/bin/Debug/netcoreapp3.1
+/CheapAwesome.Providers.Base/obj
